@@ -12,9 +12,13 @@ Joe Marini
                             
 Senior Director of Product and Engineering
 
-                            
+                           
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
 
 [lil-course-url]: https://www.linkedin.com/learning/advanced-python-working-with-data?dApp=59033956
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQHFsVUV8qK2oQ/learning-public-crop_675_1200/0/1677626823709?e=2147483647&v=beta&t=iOWz9iUaE863pt-gX47-xkif7849UDZYy8Xrd-jexew
+
+
+
+TEst
